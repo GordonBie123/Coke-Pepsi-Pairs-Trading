@@ -24,4 +24,3 @@ This project implements a market-neutral pairs trading strategy using cointegrat
 - **Win Rate**: 52%
 - **Profit Factor**: 1.25
 
-## Requirements
